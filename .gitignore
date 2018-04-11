@@ -2,3 +2,12 @@
 *.xcuserdatad
 /build/
 *.xccheckout
+
+#Vendor
+Vendor
+
+#Pods
+Pods
+
+#GoogleService-Info.plist
+GoogleService-Info.plist
